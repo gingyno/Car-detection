@@ -2,8 +2,7 @@
 
 This project utilizes the YOLOv8 object detection model and the Supervision library to track vehicles and count them as they cross a virtual line in a video.
 
-
-https://github.com/user-attachments/assets/77fcae1b-bc9d-47ad-b011-aebd52be21d1
+<img width="748" height="375" alt="image" src="https://github.com/user-attachments/assets/e61b81ac-a5ba-4997-9715-cc6eb8de43d8" />
 
 
 ---
